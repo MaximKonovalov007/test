@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="244,185,0,0" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="231,313,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
